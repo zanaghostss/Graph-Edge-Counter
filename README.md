@@ -1,0 +1,4 @@
+This program is designed to help you determine the number of edges required to construct a graph based on the given input. The graph consists of n vertices, where each vertex is assigned a numerical value within the range of 1 to 100,000. Two vertices are connected by an edge if and only if the absolute difference between their assigned values is exactly 1.
+The program takes the number of vertices (n) and the assigned values for each vertex as input. It then calculates the number of edges by comparing the values of each pair of vertices and checking if the absolute difference between them is equal to 1. If the condition is met, an edge is counted.
+By providing the necessary inputs, this program will output the total number of edges required to construct the graph based on the given criteria.
+Feel free to use this program to analyze and visualize graph structures, making it easier to understand and work with complex data relationships.
